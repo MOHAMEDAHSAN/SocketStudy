@@ -1,6 +1,4 @@
 # EXP : 1a - STUDY OF SOCKET PROGRAMMING
-## NAME : S MOHAMED AHSAN
-## REG NO : 212223240089
 ## Aim: 
 To perform a study on Socket Programming
 
